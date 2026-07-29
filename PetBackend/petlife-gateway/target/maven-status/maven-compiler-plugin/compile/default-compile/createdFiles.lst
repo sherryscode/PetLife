@@ -1,0 +1,3 @@
+com\petlife\gateway\GatewayApplication.class
+com\petlife\gateway\filter\AuthFilter.class
+com\petlife\gateway\filter\AuthFilter$Config.class

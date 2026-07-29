@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="petlife-mall" />
+        <module name="petlife-social" />
+        <module name="petlife-health" />
+        <module name="petlife-message" />
+        <module name="petlife-auth" />
+        <module name="petlife-common" />
+        <module name="petlife-order" />
+        <module name="petlife-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="petlife-auth" options="-parameters" />
+      <module name="petlife-common" options="-parameters" />
+      <module name="petlife-gateway" options="-parameters" />
+      <module name="petlife-health" options="-parameters" />
+      <module name="petlife-mall" options="-parameters" />
+      <module name="petlife-message" options="-parameters" />
+      <module name="petlife-order" options="-parameters" />
+      <module name="petlife-parent" options="-parameters" />
+      <module name="petlife-social" options="-parameters" />
+    </option>
+  </component>
+</project>

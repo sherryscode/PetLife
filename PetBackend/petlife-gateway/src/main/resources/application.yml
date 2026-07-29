@@ -1,0 +1,69 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: petlife-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: auth-service
+          uri: lb://petlife-auth
+          predicates:
+            - Path=/api/auth/**
+          filters:
+            - StripPrefix=2
+        - id: health-service
+          uri: lb://petlife-health
+          predicates:
+            - Path=/api/health/**
+          filters:
+            - StripPrefix=2
+        - id: order-service
+          uri: lb://petlife-order
+          predicates:
+            - Path=/api/order/**
+          filters:
+            - StripPrefix=2
+        - id: social-service
+          uri: lb://petlife-social
+          predicates:
+            - Path=/api/social/**
+          filters:
+            - StripPrefix=2
+        - id: mall-service
+          uri: lb://petlife-mall
+          predicates:
+            - Path=/api/mall/**
+          filters:
+            - StripPrefix=2
+        - id: message-service
+          uri: lb://petlife-message
+          predicates:
+            - Path=/api/message/**
+          filters:
+            - StripPrefix=2
+        - id: files-service
+          uri: lb://petlife-auth
+          predicates:
+            - Path=/api/files/**
+          filters:
+            - StripPrefix=1
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowed-origin-patterns: "*"
+            allowed-methods: "*"
+            allowed-headers: "*"
+            allow-credentials: true
+
+logging:
+  level:
+    org.springframework.cloud.gateway: debug

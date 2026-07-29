@@ -1,0 +1,9 @@
+com\petlife\message\entity\Message.class
+com\petlife\message\config\MyMetaObjectHandler.class
+com\petlife\message\controller\MessageController.class
+com\petlife\message\config\RestTemplateConfig.class
+com\petlife\message\service\impl\MessageServiceImpl.class
+com\petlife\message\mapper\MessageMapper.class
+com\petlife\message\MessageApplication.class
+com\petlife\message\service\MessageService.class
+com\petlife\message\task\VaccineReminderTask.class
