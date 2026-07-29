@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092729" src="https://github.com/user-attachments/assets/934263f8-e895-4a6e-b347-50c204ee737b" /># 🐾 PetLife - 宠物生活管理系统
+# 🐾 PetLife - 宠物生活管理系统
 
 <p align="center">
   <strong>一个面向宠物行业的全生命周期管理平台</strong>
