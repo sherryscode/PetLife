@@ -17,25 +17,6 @@
 
 PetLife 是一个基于微服务架构的宠物生活管理系统，为宠物主人、宠物店商户和系统管理员提供一站式的宠物管理解决方案。系统涵盖宠物健康管理、商城购物、预约服务、社区互动等核心功能。
 
-##项目图片
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092601" src="https://github.com/user-attachments/assets/12833190-e3f6-4be2-83a2-098af4aab41a" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092610" src="https://github.com/user-attachments/assets/5b43078a-df57-458e-a942-598de526734b" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092617" src="https://github.com/user-attachments/assets/f7850ec7-a2dc-4e0b-ba95-3dfba623d5d7" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092622" src="https://github.com/user-attachments/assets/75282596-491c-4f95-a3e7-0af920b638c6" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092635" src="https://github.com/user-attachments/assets/30b58b46-7325-474f-943a-79a40e28d7b0" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092643" src="https://github.com/user-attachments/assets/e371600d-ea05-4d9e-a5cb-5801f3418ba7" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092654" src="https://github.com/user-attachments/assets/b8dd426e-d14d-4255-81a6-bdc007fdd0f1" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092702" src="https://github.com/user-attachments/assets/f2fb55ec-5163-4178-bc15-d24e19ff1a88" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092707" src="https://github.com/user-attachments/assets/e42dfed4-ad2a-4bcb-a082-6c50dceb0906" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092722" src="https://github.com/user-attachments/assets/86a0b879-3655-4933-aaf1-64b89c74f80c" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092713" src="https://github.com/user-attachments/assets/17a55819-52e0-434d-8a5b-37400bb5e063" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092729" src="https://github.com/user-attachments/assets/611d182a-41f2-4740-8283-764bf3d8b160" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092546" src="https://github.com/user-attachments/assets/10bbd5bf-27c1-457c-adf4-9e3e3960599c" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 093004" src="https://github.com/user-attachments/assets/cb7c608b-c7c9-49e2-8599-0c7c637076ca" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092553" src="https://github.com/user-attachments/assets/61d8d875-7625-45f8-ad30-22fbb1e23064" />
-<img width="2560" height="1600" alt="屏幕截图 2026-07-29 093017" src="https://github.com/user-attachments/assets/4d6588db-19b7-46f9-9b72-6be2a9f24a89" />
-
-
 ## ✨ 功能特色
 
 - 🐱 **健康管理** - 宠物档案、疫苗记录、体检记录、病例管理
@@ -478,6 +459,24 @@ public void checkVaccineExpiration() {
 ```
 
 </details>
+
+### 📷 效果展示
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092601" src="https://github.com/user-attachments/assets/12833190-e3f6-4be2-83a2-098af4aab41a" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092610" src="https://github.com/user-attachments/assets/5b43078a-df57-458e-a942-598de526734b" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092617" src="https://github.com/user-attachments/assets/f7850ec7-a2dc-4e0b-ba95-3dfba623d5d7" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092622" src="https://github.com/user-attachments/assets/75282596-491c-4f95-a3e7-0af920b638c6" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092635" src="https://github.com/user-attachments/assets/30b58b46-7325-474f-943a-79a40e28d7b0" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092643" src="https://github.com/user-attachments/assets/e371600d-ea05-4d9e-a5cb-5801f3418ba7" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092654" src="https://github.com/user-attachments/assets/b8dd426e-d14d-4255-81a6-bdc007fdd0f1" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092702" src="https://github.com/user-attachments/assets/f2fb55ec-5163-4178-bc15-d24e19ff1a88" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092707" src="https://github.com/user-attachments/assets/e42dfed4-ad2a-4bcb-a082-6c50dceb0906" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092722" src="https://github.com/user-attachments/assets/86a0b879-3655-4933-aaf1-64b89c74f80c" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092713" src="https://github.com/user-attachments/assets/17a55819-52e0-434d-8a5b-37400bb5e063" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092729" src="https://github.com/user-attachments/assets/611d182a-41f2-4740-8283-764bf3d8b160" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092546" src="https://github.com/user-attachments/assets/10bbd5bf-27c1-457c-adf4-9e3e3960599c" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 093004" src="https://github.com/user-attachments/assets/cb7c608b-c7c9-49e2-8599-0c7c637076ca" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 092553" src="https://github.com/user-attachments/assets/61d8d875-7625-45f8-ad30-22fbb1e23064" />
+<img width="2560" height="1600" alt="屏幕截图 2026-07-29 093017" src="https://github.com/user-attachments/assets/4d6588db-19b7-46f9-9b72-6be2a9f24a89" />
 
 ## 📝 许可证
 
